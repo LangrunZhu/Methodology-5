@@ -1,2 +1,2 @@
 def main(targets):
-  return
+  return True
